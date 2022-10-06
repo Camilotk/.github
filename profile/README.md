@@ -9,7 +9,7 @@ Além disso, nossa comunidade possui projetos autorais com conteúdos grátis e 
 
 **🟣 [He4rt Live](https://www.twitch.tv/team/he4rt)**: projeto focado em ajudar no crescimento da comunidade de criadores de conteúdos na Twitch de todas as categorias, principalmente em LiveCoding.
 
-**🟣 He4rt Delas**: nosso projeto feminino que tem como objetivo encorajar a inclusão de mulheres e minorias na nossa comunidade e em tecnologia, promovendo um espaço seguro e acolhedor para as mesmas. 
+**🟣 [He4rt Delas](https://twitter.com/He4rtDevs/status/1577314455247011842)**: nosso projeto feminino que tem como objetivo encorajar a inclusão de mulheres e minorias na nossa comunidade e em tecnologia, promovendo um espaço seguro e acolhedor para as mesmas. 
 
 Para fazer parte da nossa comunidade, basta entrar em nossa comunidade no [Discord](https://discord.gg/he4rt)!
 ##
